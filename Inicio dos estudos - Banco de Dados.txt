@@ -1,0 +1,1 @@
+Início estudos Banco de dados, a primeira atividade foi uma representação dos dados se conectando em um diagrama. As aulas de Banco de Dados serão ensinadas em Java, os estudos serão na escola Etec Prefeito Alberto Feres e conteúdos de cursos online!
